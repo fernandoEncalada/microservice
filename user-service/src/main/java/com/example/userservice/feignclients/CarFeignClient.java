@@ -1,12 +1,12 @@
 package com.example.userservice.feignclients;
 
-import com.example.userservice.models.Car;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.*;
+import com.example.userservice.models.Car;
 
 import java.util.List;
 
-@FeignClient(name = "car-service", url = "http://localhost:8002")
+@FeignClient(name = "car-service")
 @RequestMapping("/car")
 public interface CarFeignClient {
     @PostMapping()
