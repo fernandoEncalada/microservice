@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ce68233-2bf7-4a2a-be20-e52dfa475665" name="Changes" comment="">
+    <list default="true" id="15eede4a-85df-4993-8b6e-59920cf10b24" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/src/main/resources/application.yml" afterDir="false" />
     </list>
@@ -24,7 +28,7 @@
     </option>
     <option name="myId2Visible">
       <map>
-        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
   </component>
@@ -38,7 +42,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2HF9hyhmV62BRz4HPw9isn4iKAX" />
+  <component name="ProjectId" id="2HIGMvjZqo3XqCvZTeSYK2Q9eV0" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -50,9 +54,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/fernando/Documents/spring-boot/microservices-test",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "last_opened_file_path": "C:/Users/fernando/Documents/spring-boot/microservices-test/config-data"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -60,96 +62,19 @@
       <recent name="C:\Users\fernando\Documents\spring-boot\microservices-test\config-data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EurekaServiceApplication">
-    <configuration name="BikeServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.bikeservice.BikeServiceApplication" />
-      <module name="bike-service" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.bikeservice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CarServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.carservice.CarServiceApplication" />
-      <module name="car-service" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.carservice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConfigServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.configservice.ConfigServiceApplication" />
-      <module name="config-service" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.configservice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EurekaServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.microservice.eurekaservice.EurekaServiceApplication" />
-      <module name="eureka-service" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.microservice.eurekaservice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.userservice.UserServiceApplication" />
-      <module name="user-service" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.userservice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.EurekaServiceApplication" />
-        <item itemvalue="Application.ConfigServiceApplication" />
-        <item itemvalue="Application.BikeServiceApplication" />
-        <item itemvalue="Application.CarServiceApplication" />
-        <item itemvalue="Application.UserServiceApplication" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0ce68233-2bf7-4a2a-be20-e52dfa475665" name="Changes" comment="" />
-      <created>1667870092486</created>
+      <changelist id="15eede4a-85df-4993-8b6e-59920cf10b24" name="Changes" comment="" />
+      <created>1667965144433</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1667870092486</updated>
+      <updated>1667965144433</updated>
     </task>
     <servers />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="bootstrap.yaml" />
-    <option featureType="com.intellij.fileTypeFactory" implementationName="application.yml" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
