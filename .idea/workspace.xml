@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="0ce68233-2bf7-4a2a-be20-e52dfa475665" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-data/bike-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/bike-service.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-data/car-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/car-service.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config-data/eureka-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/eureka-service.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-data/user-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/user-service.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +63,7 @@
       <recent name="C:\Users\fernando\Documents\spring-boot\microservices-test\config-data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BikeServiceApplication">
+  <component name="RunManager" selected="Application.UserServiceApplication">
     <configuration name="BikeServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.bikeservice.BikeServiceApplication" />
       <module name="bike-service" />
@@ -113,10 +116,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.userservice.UserServiceApplication" />
+      <module name="user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.userservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BikeServiceApplication" />
+        <item itemvalue="Application.UserServiceApplication" />
         <item itemvalue="Application.CarServiceApplication" />
+        <item itemvalue="Application.BikeServiceApplication" />
         <item itemvalue="Application.EurekaServiceApplication" />
         <item itemvalue="Application.ConfigServiceApplication" />
       </list>
