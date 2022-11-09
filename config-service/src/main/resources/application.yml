@@ -6,7 +6,7 @@ spring:
             server:
                 git:
                     default-label: eureka
-                    uri: https://github.com/fernandoEncalada/microservice
+                    uri: https://github.com/fernandoEncalada/multiple-instances
                     search-paths: config-data
     application:
       name: config-service
