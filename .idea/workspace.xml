@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="093da123-ccf1-49e7-a75d-90e63c81343d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-data/user-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/user-service.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/example/userservice/configuration/RestTemplateConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/example/userservice/configuration/RestTemplateConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/example/userservice/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/example/userservice/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/example/userservice/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/example/userservice/service/UserService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CarServiceApplication">
+  <component name="RunManager" selected="Application.ConfigServiceApplication">
     <configuration name="BikeServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.bikeservice.BikeServiceApplication" />
       <module name="bike-service" />
@@ -79,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EurekaServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.microservice.eurekaservice.EurekaServiceApplication" />
-      <module name="eureka-service" />
+    <configuration name="ConfigServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.configservice.ConfigServiceApplication" />
+      <module name="config-service" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.microservice.eurekaservice.*" />
+          <option name="PATTERN" value="com.configservice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UserServiceApplication" />
         <item itemvalue="Application.CarServiceApplication" />
         <item itemvalue="Application.BikeServiceApplication" />
+        <item itemvalue="Application.UserServiceApplication" />
         <item itemvalue="Application.GatewayServiceApplication" />
-        <item itemvalue="Application.EurekaServiceApplication" />
+        <item itemvalue="Application.ConfigServiceApplication" />
       </list>
     </recent_temporary>
   </component>
